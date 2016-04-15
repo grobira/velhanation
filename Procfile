@@ -1,1 +1,1 @@
-web: gunicorn routes --log-file -
+web: gunicorn .routes --log-file -
